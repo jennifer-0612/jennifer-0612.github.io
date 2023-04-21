@@ -104,24 +104,24 @@
    * color-2(#343D35)
    * color-3(#FEF5E4)
    */
-	--color-1: hsla(35, 87%, 49%, 1);
-	--color-2: hsla(127, 8%, 22%, 1);
-	--color-3: hsla(39, 93%, 95%, 1);
+	--color-1: rgb(234, 16, 234);
+	--color-2: rgb(52, 60, 61);
+	--color-3: rgb(120, 222, 248);
 
   /* theme color variations
    */
-	--color-1-lightest             : hsla(35, 87%, 96%, 1);
-	--color-1-lighter              : hsla(35, 87%, 69%, 1);
-	--color-1-light                : hsla(35, 87%, 59%, 1);
-	--color-1-dark                 : hsla(35, 87%, 39%, 1);
-	--color-1-darker               : hsla(35, 87%, 29%, 1);
-	--color-1-darkest              : hsla(35, 87%, 10%, 1);
+	--color-1-lightest             : rgb(178, 223, 241);
+	--color-1-lighter              : rgb(240, 107, 245);
+	--color-1-light                : rgb(199, 59, 241);
+	--color-1-dark                 : rgb(137, 13, 186);
+	--color-1-darker               : rgb(112, 10, 138);
+	--color-1-darkest              : rgb(48, 3, 48);
 
-	--color-2-lightest             : hsla(127, 8%, 55%, 1);
-	--color-2-lighter              : hsla(127, 8%, 42%, 1);
-	--color-2-light                : hsla(127, 8%, 32%, 1);
-	--color-2-dark                 : hsla(127, 8%, 14%, 1);
-	--color-2-darker               : hsla(127, 8%, 2%, 1);
+	--color-2-lightest             : rgb(131, 144, 149);
+	--color-2-lighter              : rgb(99, 115, 116);
+	--color-2-light                : rgb(75, 87, 88);
+	--color-2-dark                 : rgb(33, 37, 39);
+	--color-2-darker               : rgb(212, 240, 241);
 	
 	--color-3-light                : hsla(39, 93%, 100%, 1);
 	--color-3-dark                 : hsla(39, 93%, 85%, 1);
@@ -145,9 +145,9 @@
    * Tint & Shade Generator 
    * (https                     ://maketintsandshades.com/)
    */
-	--color-black                  : #000000;
-	--color-gray-19                : #121212;
-	--color-gray-18                : #242525;
+	--color-black                  : #868484;
+	--color-gray-19                : #3f3f3f;
+	--color-gray-18                : #474747;
 	--color-gray-17                : #363737;
 	--color-gray-16                : #484949;
 	--color-gray-15                : #5b5c5c;
